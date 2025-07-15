@@ -141,8 +141,4 @@ This script is provided as-is without any warranty. Feel free to use and modify 
 ```
 
 ---
-
-✅ Now you can **paste it directly** into your `README.md` file and commit it to your GitHub repo.
-
-Want it styled with badges, clickable links, or Docker Hub info too? I can add those!
 ```
