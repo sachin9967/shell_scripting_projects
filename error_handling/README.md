@@ -1,4 +1,4 @@
-Great! Here's the **copy-paste ready version** of the README.md file (with proper markdown formatting preserved for GitHub or any markdown viewer):
+
 
 ---
 
